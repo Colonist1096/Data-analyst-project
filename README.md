@@ -3,7 +3,7 @@
 **Основные инструменты:**
 Языки: Python, SQL.<br>
 Инструменты аналитики: Pandas, Numpy, Scipy<br>
-Инструменты визуализации: Matplotlib, Plotly, Seaborn, DataLens.
+Инструменты визуализации: Matplotlib, Plotly, Seaborn, Tableau, DataLens.
 
 | **Название проекта** | **Описание проекта** | **Инструменты** |
 |:----------:|:----------:|:----------:|
